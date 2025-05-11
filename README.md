@@ -11,6 +11,7 @@ This project investigates how wearable devices—specifically the **Apple Watch*
 
 Our goal is to generate insights that can influence consumer choice, device improvements, and personalized health recommendations.
 
+![](images/fitbit_vs_apple_watch.png)
 ---
 
 ## 📂 Dataset Description
